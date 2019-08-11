@@ -23,4 +23,4 @@ FordGoBike_Trip_Data_exploratoryAnalysis - covers data from 1st of January 2018 
 # This project has following documents
 1. FordGoBike_Trip_Data_exploratoryAnalysis (.ipynb,.html)
 2. FordGoBike_Trip_Data_slide (.ipynb,.html)
-3. Consolidated data 2018-fordgobike-tripdata.csv
+3. Images from the analysis
