@@ -8,19 +8,19 @@ FordGoBike_Trip_Data_exploratoryAnalysis - covers data from 1st of January 2018 
 # Data Source: https://s3.amazonaws.com/baywheels-data/index.html
 
 # Investigative Overview
-I have answered following questions
-How is the distribution of various trip duration?
-How is the trend month wise and which month saw long trip durations?
-How is the trip duration season wise?
-How is the distribution of user type that is customer and susbcriber?
-How is the Average byke ride duration in 2018?
-How is the byke ride usage month wise in 2018?
-How are the byke usage hour wise, like when are the busiest hours of the day?
-How long is the usage during weekdays?
-How is the usage by memeber age group?
-How was the monthly trend with respect to age group and subscribers user group?
-Which stations are the busiest?
+1. How is the distribution of various trip duration?
+2. How is the trend month wise and which month saw long trip durations?
+3. How is the trip duration season wise?
+4. How is the distribution of user type that is customer and susbcriber?
+5. How is the Average byke ride duration in 2018?
+6. How is the byke ride usage month wise in 2018?
+7. How are the byke usage hour wise, like when are the busiest hours of the day?
+8. How long is the usage during weekdays?
+9. How is the usage by memeber age group?
+10. How was the monthly trend with respect to age group and subscribers user group?
+11. Which stations are the busiest?
 
 # This project has following documents
 1.FordGoBike_Trip_Data_exploratoryAnalysis (.ipynb,.html)
 2.FordGoBike_Trip_Data_slide (.ipynb,.html)
+3.Consolidated data 2018-fordgobike-tripdata.csv
