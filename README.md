@@ -18,9 +18,15 @@ FordGoBike_Trip_Data_exploratoryAnalysis - covers data from 1st of January 2018 
 8. How long is the usage during weekdays?
 9. How is the usage by memeber age group?
 10. How was the monthly trend with respect to age group and subscribers user group?
-11. Which stations are the busiest?
+11. How is the usage of byke service (duration in minute) by user_type and Gender wise?
 
 # This project has following documents
-1. FordGoBike_Trip_Data_exploratoryAnalysis (.ipynb,.html)
-2. FordGoBike_Trip_Data_slide (.ipynb,.html)
-3. Images from the analysis
+1. FordGoBike_Trip_Data_exploratoryAnalysis_exp (.ipynb,.html)
+2. FordGoBike_Trip_Data_exploratoryAnalysis_exp.slides.html
+
+# Project Findings
+After gathering and cleaning the data some exciting insights could be unravelled. 
+Majority of the rides in the year 2018 were around 10 minutes of duration. Months of June and July show the maximum duration bike rides as well as increase in usage of the service as compared to other months. Large amount(85%) of user type are subscribers while small numbers (15%) are customers. 8:00 AM is the busiest time in the morning while 5:00 PM is the busiest in the evening hours. Weekends (saturdays and Sundays) shows longer duration usage of service as compared to other days of the week. This service is most popular among age group of 31-40 years old. Subscriptions are longer utilised by Males than females or other gender category.
+
+# Key Insights
+Since 85% of users base are subscribers it shows that this bike service is quite popular and people are interested to subscribe to it after using it. People are biking for longer durations on weekends.
